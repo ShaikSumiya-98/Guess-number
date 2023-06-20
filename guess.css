@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://lh4.ggpht.com/OF6-XCKzfVKLMLgSZOwvYnmj0NNOhOzu9meOAr1EJA-rWQ0HgSWjo-wCGRkKxHVkO212=h500");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(41, 225, 163,0.5);
+}
+.guess{
+    font-family: Algerian;
+    height: 300px;
+    width: 350px;
+    border: 2px solid aquamarine;
+    box-shadow: 10px springgreen;
+    margin:0 auto;
+    margin-top: 15%;
+    border-radius: 15%;
+    background-color: rgba(14, 181, 117,0.5);
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+    color:chartreuse;
+}
+h2{
+    text-align: center;
+    font-size: 15px;
+    color: red;
+}
+h3{
+    text-align:center;
+    font-size: 15px;
+}
+label{
+    margin-left: 5%;
+}
+.btn{
+    text-align: center;
+    margin-top: 1%;
+}
+.btn1{
+    text-align: center; 
+    margin-top: 1%;
+}
+.btn input{
+    background-color: chocolate;
+    align-items: center;
+}
+.btn1 input{
+    background-color: chocolate;
+}
+.btn:hover{
+    transform: scale(1.05);
+    transition: 1s linear;
+}
+.btn1:hover{
+    transform: scale(1.05);
+    transition: 1s linear;
+}
+#result{
+    text-align: center;
+    color:blue;
+}
